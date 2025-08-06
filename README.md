@@ -1,1 +1,1 @@
-# rasa_project
+# rasa_project_frontend
